@@ -2,7 +2,7 @@
 GPT로 배우는 Python
 
 
-### 강의 교안:    https://han.gl/MoVzyZ
+### 강의 교안:    https://han.gl/gRNsGb
 
 ### Worksheet:   https://me2.kr/IjkgG
 
