@@ -2,9 +2,9 @@
 GPT로 배우는 Python
 
 
-### 강의 교안:    https://buly.kr/3j4JDO1
+### 강의 교안:    
 
-### Worksheet:   https://me2.kr/IjkgG
+### Worksheet:   
 
 ### 새일 RPA 과정 수업 일지:   https://buly.kr/E7515hw
 
